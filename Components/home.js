@@ -22,7 +22,6 @@ const Home = () => {
                     className="h-96 z-0 w-full relative overflow-hidden order-1 lg:static md:w-1/2 lg:order-2"
                 >
                     <Image
-                        src="/img/jumb.png"
                         alt=""
                         layout="responsive"
                         /*className="absolute z-50 w-full h-full object-cover object-center lg:w-1/2"*/
