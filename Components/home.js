@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from "next/image";
 
 const Home = () => {
     return (
@@ -21,15 +20,14 @@ const Home = () => {
                 <div
                     className="h-96 z-0 w-full relative overflow-hidden order-1 lg:static md:w-1/2 lg:order-2"
                 >
-                    <Image
+                    {/*<Image
                         alt=""
                         layout="responsive"
-                        /*className="absolute z-50 w-full h-full object-cover object-center lg:w-1/2"*/
                         width={300}
                         height={380}
                         objectFit="cover"
                         quality={100}
-                    />
+                    />*/}
                 </div>
             </div>
 
